@@ -1,0 +1,27 @@
+GuavaComanda PRO
+Copyright (c) 2026 Héctor David Cervantes. Todos los derechos reservados.
+
+Este software es propiedad exclusiva de su autor. Se permite únicamente
+usar las aplicaciones publicadas en este sitio a quienes cuenten con
+autorización del autor y una clave de acceso vigente.
+
+Queda prohibido, sin autorización previa y por escrito del autor:
+  - copiar, reproducir o redistribuir total o parcialmente este software;
+  - modificarlo, adaptarlo o crear obras derivadas;
+  - venderlo, sublicenciarlo, arrendarlo o ofrecerlo a terceros;
+  - descompilar o extraer su código con fines comerciales.
+
+El software se entrega "tal cual", sin garantía de ningún tipo. El autor
+no será responsable por daños derivados de su uso.
+
+Contacto: cervantessd8@gmail.com
+
+---
+
+GuavaComanda PRO
+Copyright (c) 2026 Héctor David Cervantes. All rights reserved.
+
+This software is the exclusive property of its author. No part of it may
+be copied, modified, distributed, sold, sublicensed or used to create
+derivative works without prior written permission from the author.
+The software is provided "as is", without warranty of any kind.
